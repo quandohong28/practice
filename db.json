@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "iphone",
+            "image": "https://picsum.photos/100/200",
+            "price": "3000"
+        },
+        {
+            "id": "2",
+            "name": "samsung",
+            "image": "https://picsum.photos/100/200",
+            "price": "2000"
+        },
+        {
+            "id": "3",
+            "name": "xiaomi",
+            "image": "https://picsum.photos/100/200",
+            "price": "3000"
+        },
+        {
+            "id": "4",
+            "name": "huawei",
+            "image": "https://picsum.photos/100/200",
+            "price": "8000"
+        }
+    ]
+}
